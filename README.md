@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **loma-baldsson/loma-baldsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ok this profile readme is pretty cool
+
+- email: howtopoopin2021official@gmail.com
+- discord id: 697279351690887228
